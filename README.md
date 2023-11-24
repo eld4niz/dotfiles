@@ -38,6 +38,9 @@ I also created folder for interesting wallpapers that I saved
 
 I'm using ZSH for my daily user shell. As for scripting I'm still using Bash and I think it's the best one to use for shell scripting or linux automation.
 
+For best powerlevel10k theme experience, we have to install MesloLGS Regular font:
+- https://github.com/romkatv/powerlevel10k/blob/master/font.md
+
 As for gnome-terminal, I'm also using Catppuccin theme where you can also install from:
 - https://github.com/catppuccin/gnome-terminal
 
