@@ -1,3 +1,11 @@
+# Personalization - Linux Rice | Obsidian | Visual Studio Code
+
+## Screenshots
+![screenshot1](screenshots/sc1.png)
+![screenshot2](screenshots/sc2.png)
+![screenshot3](screenshots/sc3.png)
+![screenshot4](screenshots/sc4.png)
+
 ## ***.themes/***
 
 I'm personally using ***Catppuccin Mocha Standart*** theme and customized top bar enriched with gnome extensions
